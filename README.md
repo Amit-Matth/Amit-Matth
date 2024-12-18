@@ -1,6 +1,6 @@
 # Hi, I am Amit Matth
 
-**Self-taught programmer & Game enthusiast**
+**Self Taught Programmer & Game Enthusiast**
 
 Currently, I am trying to contribute to open source.
 
