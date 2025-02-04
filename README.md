@@ -10,7 +10,10 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/amit_matth) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Amit_Matth)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/amit-matth)  [![Gmail](https://img.shields.io/badge/Gmail-%23EA4335.svg?logo=gmail&logoColor=white)](https://linkedin.com/in/amit-matth) 
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/amit_matth) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/amit-matth) &nbsp;
+[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&to=amitmatth121@gmail.com) &nbsp;
+<a href="https://x.com/Amit_Matth" target="_blank"><img src="https://github.com/user-attachments/assets/ede69860-9fb1-4f0a-826d-9dba371e4da0" alt="Twitter" height="43=5" width="55" /></a> 
 
 
 # 💻 Tech Stack:
