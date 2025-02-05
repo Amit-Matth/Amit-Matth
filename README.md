@@ -18,7 +18,7 @@
     <img src="https://github.com/user-attachments/assets/f8d88844-df3a-4ef0-82dc-334315f4d3fa" alt="Twitter" height="46" width="48" style="vertical-align: middle; margin: 0 5px;">
   </picture>
 </a>
-[![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&to=amitmatth121@gmail.com)
+[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:amitmatth121@gmail.com)
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/amit-matth)
 
 
