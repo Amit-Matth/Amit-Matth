@@ -11,7 +11,7 @@
 
 # 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/amit_matth) &nbsp;
-<a href="https://x.com/Amit_Matth" target="_blank"><img src="https://github.com/user-attachments/assets/ede69860-9fb1-4f0a-826d-9dba371e4da0" alt="Twitter" height="45" width="50" /></a>&nbsp;
+<a href="https://x.com/Amit_Matth" target="_blank"><img src="https://github.com/user-attachments/assets/0608053d-5c6d-4ea4-aba6-60969540bfc1" alt="Twitter" height="45" width="50" /></a>&nbsp;
 [![Gmail](https://skillicons.dev/icons?i=gmail)](https://mail.google.com/mail/?view=cm&to=amitmatth121@gmail.com) &nbsp;
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/amit-matth) 
 
