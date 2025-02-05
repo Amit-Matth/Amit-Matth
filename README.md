@@ -11,11 +11,11 @@
 
 # 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/amit_matth)
-<a href="https://twitter.com/yourprofile" target="_blank">
+<a href="https://x.com/Amit_Matth" target="_blank">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/ebae29ef-a00a-421b-b7b3-6c175c5fa24c">
     <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/3a603b07-4337-40fe-a91d-40a4ea2fc24f">
-    <img src="https://github.com/user-attachments/assets/f8d88844-df3a-4ef0-82dc-334315f4d3fa" alt="Twitter" height="46" width="48" style="vertical-align: middle; margin: 0 5px;">
+    <img src="https://github.com/user-attachments/assets/f8d88844-df3a-4ef0-82dc-334315f4d3fa" alt="Twitter" height="46" width="48">
   </picture>
 </a>
 [![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:amitmatth121@gmail.com)
