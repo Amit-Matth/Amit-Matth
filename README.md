@@ -24,4 +24,16 @@
 
 
 # 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![XMl](https://img.shields.io/badge/xml-%23005FAD.svg?style=for-the-badge&logo=xml&logoColor=white)  ![Jetpack Compose](https://img.shields.io/badge/jetpackcompose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23DD2C00.svg?style=for-the-badge&logo=firebase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white)  ![Material Design](https://img.shields.io/badge/materialdesign-%23757575.svg?style=for-the-badge&logo=materialdesign&logoColor=white) ![Google Maps](https://img.shields.io/badge/googlemaps-%234285F4.svg?style=for-the-badge&logo=googlemaps&logoColor=white)  ![Android Studio](https://img.shields.io/badge/android%20studio-3DDC84?style=for-the-badge&logo=android%20studio&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/Firebase-DD2C00?style=flat&logo=firebase&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/Material_Design-757575?style=flat&logo=material-design&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white&labelColor=6E6E6E" height="30">
+</p>
