@@ -1,18 +1,12 @@
-<p align="left">
-  <h1>Hi 👋, I am Amit Matth</h1>
+<img align="right" src="https://github.com/user-attachments/assets/5a2d96be-5e28-4ee1-80ae-50894c9ba9ec" width="300"/>
+
+# Hi 👋, I am Amit Matth
   
   - 🎓 I'm a Self-Taught Flutter Developer building Android & iOS apps 
   - 💻 Currently, contributing to Open Source  
   - 💬 Feel free to ask me about Android & iOS development using Flutter
   - ⚡ <strong>Fun fact:</strong> Discontinued formal education after 12th  
-  - 🤝 Let's connect & collaborate to build something amazing!
-</p>
-
-<p align="right">
-  <img src="https://github.com/user-attachments/assets/5a2d96be-5e28-4ee1-80ae-50894c9ba9ec" width="300"/>
-</p>
-
-
+  - 🤝 Let's connect & collaborate to build something amazing
 
 # 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://instagram.com/amit_matth)
