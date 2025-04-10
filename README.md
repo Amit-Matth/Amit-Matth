@@ -1,6 +1,6 @@
-<img align="right" src="https://github.com/user-attachments/assets/5a2d96be-5e28-4ee1-80ae-50894c9ba9ec" width="300"/>
+<h1 align="left"> Hi 👋, I am Amit Matth</h1>
 
-# Hi 👋, I am Amit Matth
+<img align="right" src="https://github.com/user-attachments/assets/5a2d96be-5e28-4ee1-80ae-50894c9ba9ec" width="200">
   
   - 🎓 I'm a Self-Taught Flutter Developer building Android & iOS apps 
   - 💻 Currently, contributing to Open Source  
