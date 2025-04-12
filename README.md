@@ -1,8 +1,8 @@
 <h1 align="left"> Hi 👋, I am Amit Matth</h1>
 
-  - 🎓 I'm a Self-Taught Flutter Developer building Android & iOS apps 
+  - 🎓 I'm a Self-Taught Android Developer building Android apps 
   - 💻 Currently, contributing to Open Source  
-  - 💬 Feel free to ask me about Android & iOS development using Flutter
+  - 💬 Feel free to ask me about Android Development in Java & Kotlin 
   - ⚡ <strong>Fun fact:</strong> Discontinued formal education after 12th  
   - 🤝 Let's connect & collaborate to build something amazing
 
@@ -22,8 +22,7 @@
 
 # 💻 Tech Stack:
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=6E6E6E" height="30">
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=6E6E6E" height="30">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=6E6E6E" height="30">
   <img src="https://img.shields.io/badge/XML-005FAD?style=flat&logo=xml&logoColor=white&labelColor=6E6E6E" height="30">
   <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpack-compose&logoColor=white&labelColor=6E6E6E" height="30">
@@ -32,4 +31,6 @@
   <img src="https://img.shields.io/badge/Material_Design-757575?style=flat&logo=material-design&logoColor=white&labelColor=6E6E6E" height="30">
   <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white&labelColor=6E6E6E" height="30">
   <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=6E6E6E" height="30">
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white&labelColor=6E6E6E" height="30">
 </p>
