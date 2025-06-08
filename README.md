@@ -1,8 +1,8 @@
 <h1 align="left"> Hi 👋, I am Amit Matth</h1>
 
-  - 🎓 I'm a Self-Taught Android Developer building Android apps 
+  - 🎓 I'm a Self-Taught Application Developer building Android & iOS apps 
   - 💻 Currently, contributing to Open Source  
-  - 💬 Feel free to ask me about Android Development in Java & Kotlin 
+  - 💬 Feel free to ask me about Application Development in Java, Kotlin & Flutter 
   - ⚡ <strong>Fun fact:</strong> Discontinued formal education after 12th  
   - 🤝 Let's connect & collaborate to build something amazing
 
