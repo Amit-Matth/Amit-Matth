@@ -1,6 +1,6 @@
 <h1 align="left">Hello World! I'm Amit Matth 👋</h1>
 
-<img src="https://github.com/user-attachments/assets/cc6ad855-9a62-4316-8a43-4cf9bb960a99" alt="Development GIF" align="right" width="400">
+<img src="https://github.com/user-attachments/assets/cc6ad855-9a62-4316-8a43-4cf9bb960a99" alt="Development GIF" align="right" width="300" height="300">
 
 ### 🚀 GSoC 2025 Contributor | Self-Taught Application Developer
 
