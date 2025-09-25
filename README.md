@@ -1,5 +1,7 @@
 <h1 align="left">Hello World! I'm Amit Matth 👋</h1>
 
+<img src="https://github.com/user-attachments/assets/cc6ad855-9a62-4316-8a43-4cf9bb960a99" alt="Development GIF" align="right" width="400">
+
 ### 🚀 GSoC 2025 Contributor | Self-Taught Application Developer
 
 - **🥇 GSoC 2025:** Proudly contributing to the **International Catrobat Association** on a **Flutter** project.
@@ -18,7 +20,7 @@
   <img src="assets/icons/twitter.png" alt="X" width="45" height="45"></a> 
 <a href="https://discord.com/users/amit_matth">
   <img src="assets/icons/discord.png" alt="Discord" width="45" height="45"></a>  
-<a href="mailto: amitmatth121@gmail.com">
+<a href="mailto:amitmatth121@gmail.com">
   <img src="assets/icons/gmail.png" alt="Gmail" width="45" height="45"></a>
 <a href="https://linkedin.com/in/amit-matth">
   <img src="assets/icons/linkedin.png" alt="LinkedIn" width="45" height="45"></a>
