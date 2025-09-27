@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=35&duration=4000&pause=100&color=9400F7&multiline=true&width=500&height=90&lines=Hello+World!+I'm;Amit+Matth+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <p align="center">
-  <img src="assets/development_to_stores.gif" alt="App Demo" width="1024"/>
+  <img src="assets/banner.png" alt="Development to Stores Banner" width="100%"/>
 </p>
 
 ### 🚀 GSoC 2025 Contributor | Self-Taught Application Developer
