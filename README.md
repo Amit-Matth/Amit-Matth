@@ -1,6 +1,7 @@
-<h1 align="left">Hello World! I'm Amit Matth 👋</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=35&duration=4000&pause=100&color=9400F7&multiline=true&width=500&height=90&lines=Hello+World!+I'm;Amit+Matth+%F0%9F%91%8B)](https://git.io/typing-svg)
 
 <img src="assets/development_gif.gif" alt="Development GIF" align="right" width="400" height="400">
+
 
 ### 🚀 GSoC 2025 Contributor | Self-Taught Application Developer
 
@@ -13,7 +14,8 @@
 
 > **✨ Driven by Passion:** I'm a **Self-Taught Developer** my journey began right after 12th grade, driven by a pure passion for building.
 
-## 🌐 Connect with Me:
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=35&pause=1000&color=9400F7&multiline=true&width=500&height=47&lines=+%F0%9F%8C%90+Connect+with+Me)](https://git.io/typing-svg)
+
 <a href="https://instagram.com/amit_matth">
   <img src="assets/instagram.svg" alt="Instagram" width="45" height="45"></a>  
 <a href="https://x.com/Amit_Matth">
@@ -25,7 +27,8 @@
 <a href="https://linkedin.com/in/amit-matth">
   <img src="assets/linkedin.svg" alt="LinkedIn" width="45" height="45"></a>
 
-## 🛠️ My Toolkit
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=35&pause=1000&color=9400F7&multiline=true&width=500&height=47&lines=%F0%9F%9B%A0%EF%B8%8F+My+Toolkit)](https://git.io/typing-svg)
+
 <p align="left">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=412394" height="55">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white&labelColor=412394" height="55">
@@ -35,7 +38,7 @@
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white&labelColor=412394" height="55">
   <img src="https://img.shields.io/badge/Material_Design-757575?style=flat&logo=material-design&logoColor=white&labelColor=412394" height="55">
   <img src="https://img.shields.io/badge/Google_Maps-4285F4?style=flat&logo=google-maps&logoColor=white&labelColor=412394" height="55">
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=412394" height="55">
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=android-studio&logoColor=white&labelColor=4124" height="55">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white&labelColor=412394" height="55">
   <img src="https://img.shields.io/badge/Dart-0175C2?style=flat&logo=dart&logoColor=white&labelColor=412394" height="55">
 </p>
