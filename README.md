@@ -15,7 +15,7 @@
 
 > **✨ Driven by Passion:** I'm a **Self-Taught Developer** my journey began right after 12th grade, driven by a pure passion for building.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=35&pause=1000&color=9400F7&multiline=true&width=500&height=47&lines=+%F0%9F%8C%90+Connect+with+Me)](https://git.io/typing-svg)
+### 🌐 Connect With Me
 
 <a href="https://instagram.com/amit_matth">
   <img src="assets/instagram.svg" alt="Instagram" width="45" height="45"></a>  
@@ -28,7 +28,7 @@
 <a href="https://linkedin.com/in/amit-matth">
   <img src="assets/linkedin.svg" alt="LinkedIn" width="45" height="45"></a>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=1000&size=35&pause=1000&color=9400F7&multiline=true&width=500&height=47&lines=%F0%9F%9B%A0%EF%B8%8F+My+Toolkit)](https://git.io/typing-svg)
+### ⚒️ My Toolkit 
 
 <p align="left">
   <img src="https://img.shields.io/badge/kotlin-%237F52FF?style=flat&logo=kotlin&logoColor=white&labelColor=412394" height="55">
